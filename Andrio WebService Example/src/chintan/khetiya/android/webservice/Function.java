@@ -1,9 +1,9 @@
 /**
  * Function.java
- * Riddimstream
+ * Web service Example
  * Created On Jan 1, 2013
  * Created By chintan Khetiya
- * Copyrights 2013. NCrypted Technologies 
+ * Copyrights 2013. chintan khetiya
  * All Rights Reserved.
  */
 package chintan.khetiya.android.webservice;
